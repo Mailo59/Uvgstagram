@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.uvgstagram {
+    font-family: "Helvetica Neue", sans-serif;
+}
+
+.uvgstagramclass {
+    font-family: "Open Sans", sans-serif;
+}
+
+.mn {
+    margin-bottom: -100px;
+}
+.mtpn {
+    margin-top: -70px;
+}
+.bpx {
+    border-width: 1px;
+}
